@@ -1,13 +1,15 @@
 import mysql.connector
-
+import os
+user = os.getenv('MYSQL_USER')
+password = os.getenv('MYSQL_PASSWORD')
 class DB:
     
     def __init__(self):
         try:
             self.conn = mysql.connector.connect(
                 host='localhost',
-                user='root',
-                password='root',
+                user=user,
+                password=password,
                 database='users',
                 auth_plugin='mysql_native_password'
             )

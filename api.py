@@ -1,5 +1,7 @@
 import paralleldots
-paralleldots.set_api_key('yQebaEl2kQJGfZv9kKvosLSmDF5gobr4os4BXt9fQlA')
+import os
+api = os.getenv('parallel_dots_api')
+paralleldots.set_api_key(api)
 
 def ner(text):
     ner = paralleldots.ner(text)
