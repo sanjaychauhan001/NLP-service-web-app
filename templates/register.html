@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>registration</title>
+    <style>
+        body{
+          background-color: tomato;
+          text-align: center;
+          font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+      </style>
+</head>
+<body>
+    <h1>NLP APP</h1>
+    <h3>Register here</h3>
+
+    {% if message%}
+        <p>{{message}}</p>
+    {% endif %}
+
+    <form action="/perform_registration" method="post">
+        <label>Enter Name</label><br>
+        <input type="text" name="user_ka_name" required><br>
+        <label>Enter Email</label><br>
+        <input type="email" name="user_ka_email" required><br>
+        <label>Enter password</label><br>
+        <input type="password" name="user_ka_password" required><br><br>
+        <input type="submit" value="Register">
+    </form>
+    <p>Already a member <a href="/">login here</a></p>
+</body>
+</html>

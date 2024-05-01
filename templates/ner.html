@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>NER</title>
+    <style>
+        body{
+          background-color: tomato;
+          text-align: center;
+          font-family: Verdana, Geneva, Tahoma, sans-serif;
+          font-size: 20px;
+        }
+      </style>
+</head>
+<body>
+     <form action="/perform_ner" method="post">
+         <label>Type your text here</label><br>
+         <textarea name="ner_text"></textarea><br>
+         <input type="submit" value="Perform NER">
+     </form>
+
+     {% if result%}
+     <p> {{ result }}</p>
+     {% endif%}
+</body>
+</html>
