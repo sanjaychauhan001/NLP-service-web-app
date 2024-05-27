@@ -13,7 +13,10 @@ Sentiment Analysis: Integrated sentiment analysis capabilities to determine the 
 
 Abuse Detection: Implemented abuse detection functionality to identify and flag potentially abusive or offensive language within the text. This feature promotes a safer and more respectful online environment.
 
-By combining these functionalities, the application empowers users to gain valuable insights from text data, whether it's for business intelligence, social media monitoring, or personal use.![Screenshot 2024-05-04 163000](https://github.com/sanjaychauhan001/NLP-service-web-app/assets/131572534/8ade4b8e-c3f7-406c-b41d-2c11d59478a3)
+By combining these functionalities, the application empowers users to gain valuable insights from text data, whether it's for business intelligence, social media monitoring, or personal use.
+
+![Screenshot 2024-05-04 163000](https://github.com/sanjaychauhan001/NLP-service-web-app/assets/131572534/8ade4b8e-c3f7-406c-b41d-2c11d59478a3)
+
 ![Screenshot 2024-05-04 163037](https://github.com/sanjaychauhan001/NLP-service-web-app/assets/131572534/440d2181-9d27-4e25-89d1-286eb83f36ce)
 
 
