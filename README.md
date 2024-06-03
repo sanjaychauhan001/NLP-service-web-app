@@ -15,12 +15,28 @@ Abuse Detection: Implemented abuse detection functionality to identify and flag 
 
 By combining these functionalities, the application empowers users to gain valuable insights from text data, whether it's for business intelligence, social media monitoring, or personal use.
 
+Registration page:
+
 ![Screenshot 2024-05-04 163000](https://github.com/sanjaychauhan001/NLP-service-web-app/assets/131572534/8ade4b8e-c3f7-406c-b41d-2c11d59478a3)
+
+Login Page:
+
+![image](https://github.com/sanjaychauhan001/NLP-service-web-app/assets/131572534/700afc1d-0cc4-4e3a-af2a-51c96a9f3d38)
+
 
 ![Screenshot 2024-05-04 163037](https://github.com/sanjaychauhan001/NLP-service-web-app/assets/131572534/440d2181-9d27-4e25-89d1-286eb83f36ce)
 
+NER:
+
+![image](https://github.com/sanjaychauhan001/NLP-service-web-app/assets/131572534/29a1c1c3-f322-4aba-9cc7-ec89773d0c5d)
+
+Sentiment Analysis:
+
+![Screenshot 2024-05-04 163427](https://github.com/sanjaychauhan001/NLP-service-web-app/assets/131572534/9bbf5e5d-f632-4a0a-92c0-f3850992c85e)
+
+Abuse Detection:
 
 ![Screenshot 2024-05-04 163336](https://github.com/sanjaychauhan001/NLP-service-web-app/assets/131572534/8fefbc39-26e2-40e1-8a8d-3d022163e3d1)
 
 
-![Screenshot 2024-05-04 163427](https://github.com/sanjaychauhan001/NLP-service-web-app/assets/131572534/9bbf5e5d-f632-4a0a-92c0-f3850992c85e)
+
